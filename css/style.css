@@ -1,0 +1,196 @@
+.no-padding {
+	padding: 0px;
+}
+.banner {
+	background-image: url(../img/banner.png);
+}
+.banner h1 {
+	margin: 150px 380px 0;
+	padding-top: 75px;
+    font-size: 120px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+
+}
+.banner p{
+	margin: 30px 310px;
+	color: #fff;
+    padding-top: 35px;
+    padding-bottom: 65px;
+    font-size: 20px;
+}
+.banner-1 {
+	margin: 5px 235px;
+    content: "";
+    background-color: #15a3f9;
+    height: 2px;
+    width: 550px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.btn-1{
+	margin: 80px 450px;
+    color: #fff;
+    padding: 15px 60px;
+    border: 1px solid #15a3f9;
+    font-size: 18px;
+    border-radius: 3px;
+    transition: .4s ease;
+}
+.down a{
+	color: #fff;
+    font-size: 26px;
+}
+.fa.fa-angle-down{
+	display: inline-block;
+	margin: 60px 565px;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.design{
+	background-color: #fff;
+    padding-top: 65px;
+    padding-bottom: 45px;
+}
+.design h2{
+	margin: 20px 350px;
+	color: #2d3950;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+.design p {
+	margin: 10px 200px;
+}
+
+.action img{
+	margin: 30px 100px;
+}
+.action h4{
+	margin: 2px 40px;
+}
+.pro h2{
+	margin: 20px 270px 10px;
+	color: #2d3950;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+.pro p {
+	margin: 10px 450px;
+	padding-bottom: 72px;
+}
+.gallery img{
+	width: 100%;
+	margin: 10px 10px;
+
+}
+.stay {
+	margin: 20px 0;
+	background-color: #2C374B;
+}
+.stay h2 {
+	margin: 40px 420px 10px;
+    padding-top: 70x;
+    padding-bottom: 20px;
+    font-size: 41px;
+    text-align: center;
+	color: #fff;
+}
+.stay p{
+	margin: 0px 450px 30px;
+	color: #666b75;
+    padding-bottom: 50px;
+    font-size: 15px;
+}
+.form-control {
+	width: 100%;
+    margin: 10px 230px;
+    background: no-repeat;
+    border: 1px solid #999;
+    border-radius: 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 26px;
+    color: #9aa1aa;
+    font-size: 15px;
+}
+.sms-area {
+	width: 100%;
+	margin: 0 230px 20px;
+	background: no-repeat;
+	border: 1px solid #999;
+    border-radius: 1px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 26px;
+    color: #9aa1aa;
+    font-size: 15px;
+}
+.check-box {
+	background: #99a0a9;
+    height: 16px;
+    width: 16px;
+    border: none;
+    margin: 41px 20px 0px 225px;
+    border-radius: 2px;
+}
+.area {
+	position: relative;
+    margin-top: 15px;
+    padding-bottom: 50px;
+}
+.area span{
+	color: #fff;
+    font-size: 15px;
+}
+.btn{
+	margin-left: 67%;
+    top: 21px;
+    position: absolute;
+    color: #fff;
+    padding: 15px 60px;
+    border: 1px solid #15a3f9;
+    font-size: 18px;
+    border-radius: 3px;
+    transition: .4s ease;
+}
+
+.footer-work{
+	width: 100%;
+    float: left;
+    background-color: #f6f9f9;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.social-icon {
+	margin-left: 300px;
+}
+
+
+
+
+/* Media Query*/
+/* Mobile Device*/
+@media (min-width: 0px;) and (max-width: 500px){
+	.one {
+		background-color: maroon;
+	}
+} 
+/* Mobile device end*/
+/* Small Device */
+@media (min-width: 500.01px) and (max-width: 700px){
+
+}
+/* Small Device end*/
+/* Medium Device*/
+@media (min-width: 700px;) and (max-width: 1200px){
+
+}
+/*Medium Device end*/
+/*Large Device*/
+@media (min-width: 1200.01px){
+	
+}
